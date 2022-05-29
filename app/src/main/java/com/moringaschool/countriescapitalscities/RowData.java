@@ -3,15 +3,12 @@ package com.moringaschool.countriescapitalscities;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.widget.GridView;
 
-public class AllCountries extends AppCompatActivity {
+public class RowData extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_all_countries);
-
-     
+        setContentView(R.layout.activity_row_data);
     }
 }

@@ -7,6 +7,8 @@
         <entry key="app/src/main/res/font/fonts.xml" value="0.22291666666666668" />
         <entry key="app/src/main/res/layout/activity_all_countries.xml" value="0.17291666666666666" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_row_data.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_data.xml" value="0.22" />
       </map>
     </option>
   </component>

@@ -8,7 +8,7 @@
         <item>Egypt</item>
         <item>DR Congo</item>
         <item>Tanzania</item>
-       <item>South Africa</item>
+        <item>South Africa</item>
         <item>Kenya</item>
         <item>Uganda</item>
         <item>Algeria</item>
@@ -19,7 +19,7 @@
         <item>Ghana</item>
         <item>Madagascar</item>
         <item>Cameroon</item>
-       <item>Cote d Ivore</item>
+        <item>Cote d Ivore</item>
         <item>Niger</item>
         <item>Burkina Faso</item>
         <item>Mali</item>
@@ -46,16 +46,16 @@
         <item>Namibia</item>
         <item>Gambia</item>
         <item>Botswana</item>
-       <item>Gabon</item>
+        <item>Gabon</item>
         <item>Lesotho</item>
-       <item>Guinea-Bissau</item>
+        <item>Guinea-Bissau</item>
         <item>Equatorial Guinea</item>
         <item>Mauritius</item>
         <item>Eswatini</item>
         <item>Djibouti</item>
         <item>Comoros</item>
         <item>Cabo Verde</item>
-       <item>Sao Tome and Principe</item>
-       <item>Seychelles</item>
+        <item>Sao Tome and Principe</item>
+        <item>Seychelles</item>
     </string-array>
 </resources>

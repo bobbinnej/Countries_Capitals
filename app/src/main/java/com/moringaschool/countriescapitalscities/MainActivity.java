@@ -25,11 +25,6 @@ public class MainActivity extends AppCompatActivity implements OnItemSelectedLis
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Spinner searchSpinner = findViewById(R.id.searchSpinner);
-        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this, R.array.countries, android.R.layout.simple_spinner_item);
-        adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        searchSpinner.setAdapter(adapter);
-        searchSpinner.setOnItemSelectedListener(this);
 
     }
 

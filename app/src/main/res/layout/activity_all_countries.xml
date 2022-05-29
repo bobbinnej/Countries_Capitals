@@ -7,8 +7,13 @@
     tools:context=".AllCountries">
 
     <GridView
-        android:layout_width="408dp"
-        android:layout_height="727dp"
+        android:id="@+id/countriesGridView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:numColumns="2"
+        android:verticalSpacing="1dp"
+        android:background="@color/dark_purple"
+
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

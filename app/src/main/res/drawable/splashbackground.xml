@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Give a background to my splashscreen-->
+    <item android:drawable="@color/dark_purple"/>
+        <!--image to be displayed on splashscreen and where-->
+    <item>
+        <bitmap android:src="@drawable/africa"
+            android:gravity="center"
 
-</selector>
+            />
+
+    </item>
+
+</layer-list>

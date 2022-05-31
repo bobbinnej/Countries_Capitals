@@ -2,17 +2,20 @@
     <string name="app_name">Countries&amp;CapitalsCities</string>
 
     <string-array name="countries">
-        <item>Select Country</item>
-        <item>Nigeria</item>
-        <item>Ethiopia</item>
-        <item>Egypt</item>
-        <item>DR Congo</item>
-        <item>Tanzania</item>
-        <item>South Africa</item>
-        <item>Kenya</item>
-        <item>Uganda</item>
-        <item>Algeria</item>
-        <item>Sudan</item>
+
+        <!--        <item>Nigeria</item>-->
+        <!--        <item>Ethiopia</item>-->
+        <!--        <item>Egypt</item>-->
+        <!--        <item>DR Congo</item>-->
+
+
+        <!--        <item>Tanzania</item>-->
+        <!--        <item>South Africa</item>-->
+        <!--        <item>Kenya</item>-->
+        <!--        <item>Uganda</item>-->
+        <!--        <item>Algeria</item>-->
+        <!--        <item>Sudan</item>-->
+
         <item>Morocco</item>
         <item>Angola</item>
         <item>Mozambique</item>
@@ -21,6 +24,8 @@
         <item>Cameroon</item>
         <item>Cote d Ivore</item>
         <item>Niger</item>
+
+
         <item>Burkina Faso</item>
         <item>Mali</item>
         <item>Malawi</item>
@@ -50,12 +55,12 @@
         <item>Lesotho</item>
         <item>Guinea-Bissau</item>
         <item>Equatorial Guinea</item>
-        
+
         <item>Mauritius</item>
-        <item>Eswatini</item>
+        <item>Eswatini/Swaziland</item>
         <item>Djibouti</item>
         <item>Comoros</item>
-        <item>Cabo Verde</item>
+        <item>Cape Verde/Cabo</item>
         <item>Sao Tome and Principe</item>
         <item>Seychelles</item>
     </string-array>

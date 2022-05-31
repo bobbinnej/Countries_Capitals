@@ -2,9 +2,11 @@
 <androidx.cardview.widget.CardView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/
+    tools"
+    android:layout_width="180dp"
+    android:layout_height="240dp"
+    android:paddingTop="-21dp"
     android:layout_margin="10dp"
     tools:context=".RowData">
 
@@ -15,7 +17,8 @@
         <ImageView
             android:id="@+id/imageName"
             android:layout_width="50dp"
-            android:layout_height="50dp"
+            android:layout_height="90dp"
+            android:paddingTop="-141dp"
             android:src="@mipmap/ic_launcher"
             android:layout_centerInParent="true"/>
 
@@ -26,7 +29,7 @@
             android:layout_marginTop="50dp"
             android:text="Country"
             android:layout_centerHorizontal="true"
-            android:textSize="16sp"
+            android:textSize="14sp"
             android:id="@+id/countryName"/>
         <TextView
             android:layout_width="wrap_content"
@@ -34,7 +37,7 @@
             android:layout_below="@+id/countryName"
             android:id="@+id/countryCapital"
             android:text="Capital City"
-            android:textSize="16sp"
+            android:textSize="14sp"
             android:layout_centerHorizontal="true"
             android:padding="2dp"/>
 

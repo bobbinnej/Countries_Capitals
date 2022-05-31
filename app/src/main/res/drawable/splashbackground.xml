@@ -5,7 +5,8 @@
         <!--image to be displayed on splashscreen and where-->
     <item>
         <bitmap android:src="@drawable/africa"
-            android:gravity="fill"
+           android:gravity="center"
+
 
 
             />

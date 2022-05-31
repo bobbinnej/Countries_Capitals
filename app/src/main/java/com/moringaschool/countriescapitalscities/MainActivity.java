@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity  {
             @Override
             public void onClick(View v) {
                 Intent intent=new Intent(MainActivity.this, AllCountries.class);
+                Toast.makeText(MainActivity.this, "Proudly African", Toast.LENGTH_SHORT).show();
                 startActivity(intent);
             }
         });

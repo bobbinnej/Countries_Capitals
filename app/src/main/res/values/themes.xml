@@ -14,7 +14,7 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <!--Customize style for our splashscreen-->
+    <!--Customize style for our splashscreen as well as call our drawable theme-->
     <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="android:windowBackground">@drawable/africa</item>
 
